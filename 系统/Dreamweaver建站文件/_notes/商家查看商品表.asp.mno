@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Gno;datatype:int,name:Gname;datatype:varchar,name:Gtype;datatype:varchar,name:Gweight;datatype:varchar,name:Gprice;datatype:varchar" />
+</info>

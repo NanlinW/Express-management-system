@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:seno;datatype:int,name:Bname;datatype:varchar,name:Btel;datatype:int,name:Cname;datatype:varchar,name:Ctel;datatype:int,name:Cadds;datatype:varchar" />
+</info>
